@@ -6,3 +6,7 @@ customer their total bill and payment amount and tell them their change
 """
 
 # Build your code below
+totalBill = input('How much is your total bill:')
+payment = input('How much is your payment:')
+change = round(eval(totalBill) - eval(payment), 2)
+print('Hi! Your change is {}'.format(change))  # String formatting replaces {} with variable values
