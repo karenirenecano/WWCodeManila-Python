@@ -5,7 +5,7 @@
 organization = 'WomenWhoCode!'
 
 # You can print it right away!
-print('Hello WomanWhoCode!')
+print('Hello WomanWhoCode!This is Karen\'s first python code :D')
 
 # Example of string concatenation
 print('Hello ' + organization)
